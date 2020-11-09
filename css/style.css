@@ -1,0 +1,42 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #4e4e4e;
+	font-size: 16px;
+
+}
+
+.code-image {
+  background: url(https://www.fullmoonwsi.com/wp-content/uploads/2018/05/banner-svr.jpg) no-repeat center center;
+  height: 184px;
+}
+
+hr.style1{
+	border-top: 3px solid #8c8b8b;
+}
+
+.color-blue {
+	background-color: #AFEEEE;
+	background-size: cover;
+}
+
+.navbar-dark .navbar-text a, a {
+    color: #1dc1c6;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-text a:hover, a:hover {
+	color: #1dc1c6;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.label-4 {
+	color: #1dc1c6;
+	font-size: 1.8rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #1dc1c6;
+    border-bottom: .20rem solid #1dc1c6;
+}
